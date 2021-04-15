@@ -1,7 +1,6 @@
-# Latihan GUI - 19104027 / Satria Adi Nugraha
+# Selamat datang di page repository ini!
+Selamat datang di page repository ini! Saya Satria Adi 
+Nugraha dengan NIM 19104027. Page ini berisi semua hasil
+pekerjaan saya selama mata kuliah GUI di IT Telkom 
+Purwokerto, baik mata kuliah teori maupun praktikum.
 
-## Calendar Widget
-![SS Calendar](https://raw.githubusercontent.com/raddox7/19104027_TeoriGUI/master/CalendarWidgetUI.png)
-
-## Styles
-![SS Styles](https://raw.githubusercontent.com/raddox7/19104027_TeoriGUI/master/StylesUI.png)
