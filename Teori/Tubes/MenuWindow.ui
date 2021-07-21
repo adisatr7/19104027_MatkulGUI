@@ -51,7 +51,7 @@
        <height>181</height>
       </rect>
      </property>
-     <layout class="QGridLayout" name="gridLayout">
+     <layout class="QGridLayout" name="play_layout_grid">
       <item row="9" column="1" colspan="2">
        <widget class="QComboBox" name="play_dropdown_difficulty">
         <item>
@@ -306,7 +306,7 @@
       </widget>
      </widget>
     </widget>
-    <widget class="QGroupBox" name="group_user_stats">
+    <widget class="QGroupBox" name="group_userstats">
      <property name="geometry">
       <rect>
        <x>200</x>
