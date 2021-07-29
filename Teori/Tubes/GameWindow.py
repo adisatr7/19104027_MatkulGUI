@@ -138,16 +138,16 @@ class Ui_Form(object):
         self.round_label.setText(_translate("Form", "Round: {round}"))
         self.submit_button.setText(_translate("Form", "Submit"))
         self.question_label.setText(_translate("Form", "20 : 2 ="))
-        self.freezetime_button.setText(_translate("Form", "Freeze Time"))
-        self.skip_total_label.setText(_translate("Form", "Total : {total}"))
+        self.freezetime_button.setText(_translate("Form", " Freeze Time"))
+        self.skip_total_label.setText(_translate("Form", "You Have : {total}"))
         self.answer_c.setText(_translate("Form", "10"))
-        self.doublepoint_button.setText(_translate("Form", "Double Point"))
+        self.doublepoint_button.setText(_translate("Form", " Double Point"))
         self.timer_label.setText(_translate("Form", "{timer}"))
-        self.freezetime_total_label.setText(_translate("Form", "Total : {total}"))
-        self.skip_button.setText(_translate("Form", "Skip"))
+        self.freezetime_total_label.setText(_translate("Form", "You Have : {total}"))
+        self.skip_button.setText(_translate("Form", " Skip"))
         self.answer_b.setText(_translate("Form", "10"))
         self.answer_a.setText(_translate("Form", "10"))
-        self.doublepoint_total_label.setText(_translate("Form", "Total : {total}"))
+        self.doublepoint_total_label.setText(_translate("Form", "You Have : {total}"))
 
 
 if __name__ == "__main__":
