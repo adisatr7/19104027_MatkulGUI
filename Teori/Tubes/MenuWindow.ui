@@ -888,7 +888,10 @@
               <enum>QFrame::Box</enum>
              </property>
              <property name="text">
-              <string>{powerUps.pict}</string>
+              <string/>
+             </property>
+             <property name="pixmap">
+              <pixmap>assets/powerups_shop.png</pixmap>
              </property>
             </widget>
            </widget>
