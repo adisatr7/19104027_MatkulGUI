@@ -718,15 +718,18 @@
           <rect>
            <x>10</x>
            <y>10</y>
-           <width>51</width>
-           <height>51</height>
+           <width>66</width>
+           <height>66</height>
           </rect>
          </property>
          <layout class="QVBoxLayout" name="verticalLayout_2">
           <item>
            <widget class="QLabel" name="shop_label_avatarImage">
             <property name="text">
-             <string>TextLabel</string>
+             <string/>
+            </property>
+            <property name="pixmap">
+             <pixmap>assets/avatar1_shop.png</pixmap>
             </property>
            </widget>
           </item>
