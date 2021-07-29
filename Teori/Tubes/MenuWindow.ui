@@ -23,7 +23,7 @@
     </rect>
    </property>
    <property name="currentIndex">
-    <number>1</number>
+    <number>2</number>
    </property>
    <widget class="QWidget" name="tab_play">
     <attribute name="title">
@@ -431,7 +431,7 @@
       <enum>QTabWidget::Rounded</enum>
      </property>
      <property name="currentIndex">
-      <number>0</number>
+      <number>2</number>
      </property>
      <widget class="QWidget" name="tab_featured">
       <attribute name="title">
@@ -510,15 +510,18 @@
           <rect>
            <x>10</x>
            <y>10</y>
-           <width>51</width>
-           <height>51</height>
+           <width>66</width>
+           <height>66</height>
           </rect>
          </property>
          <layout class="QVBoxLayout" name="verticalLayout_2">
           <item>
            <widget class="QLabel" name="shop_label_avatarImage">
             <property name="text">
-             <string>TextLabel</string>
+             <string/>
+            </property>
+            <property name="pixmap">
+             <pixmap>assets/avatar1_shop.png</pixmap>
             </property>
            </widget>
           </item>
@@ -680,7 +683,10 @@
               <enum>QFrame::Box</enum>
              </property>
              <property name="text">
-              <string>{powerUps.pict}</string>
+              <string/>
+             </property>
+             <property name="pixmap">
+              <pixmap>assets/powerups_shop.png</pixmap>
              </property>
             </widget>
            </widget>
