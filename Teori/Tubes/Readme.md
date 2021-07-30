@@ -87,6 +87,7 @@ saat mengerjakan soal.
 ![image](https://user-images.githubusercontent.com/58881125/127634681-2b3e6622-7e51-44e4-b286-c4c461b3869e.png)
 
 - Anda dapat melihat ranking atau urutan pemain pada menu `leaderboard`.
+
 ![image](https://user-images.githubusercontent.com/58881125/127634736-51054975-622f-437c-8551-53d53e44c276.png)
 
 
