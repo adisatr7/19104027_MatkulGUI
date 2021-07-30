@@ -1,5 +1,3 @@
-
-DROP DATABASE db_mathquiz;
 CREATE DATABASE db_mathquiz;
 USE db_mathquiz;
 
