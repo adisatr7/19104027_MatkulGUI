@@ -67,7 +67,9 @@ saat mengerjakan soal.
 ![image](https://user-images.githubusercontent.com/58881125/127616070-58f2a1e7-9d00-4ec9-8e7a-4a78199ee0de.png)
 - Selesaikan soal sesuai waktu yang disediakan
 - Anda juga bisa menggunakan 3 `Power Ups` yang telah disediakan
+
 ![image](https://user-images.githubusercontent.com/58881125/127633172-21c9d73b-16a7-40d8-894c-19452f012452.png)
+
 
   > Freeze time : menghentikan waktu selama beberapa detik
 
@@ -76,8 +78,15 @@ saat mengerjakan soal.
   > Skip : Pemain dapat melanjutkan ke soal berikutnya tanpa kehilangan `life`
 
 - Pada menu profile anda dapat melihat riwayat match yang telah anda selesaikan. Anda juga dapat mengganti avatar dan melihat statistik permainan anda.
-(gambar)
+
+![image](https://user-images.githubusercontent.com/58881125/127634114-5fcae8c9-79f9-4b6b-8024-2d7cc1f46d7f.png)
+
 - Beralih ke menu shop, anda dapat membeli `power ups` dan `avatar` yang anda inginkan, untuk membelinya anda dapat menggunakan poin yang telah anda kumpulkan ketika menjawab soal.
-(gambar)
+
+![image](https://user-images.githubusercontent.com/58881125/127634595-db95c812-4ea7-429c-872e-d6ce77d3531b.png)
+![image](https://user-images.githubusercontent.com/58881125/127634681-2b3e6622-7e51-44e4-b286-c4c461b3869e.png)
+
 - Anda dapat melihat ranking atau urutan pemain pada menu `leaderboard`.
-(gambar)
+![image](https://user-images.githubusercontent.com/58881125/127634736-51054975-622f-437c-8551-53d53e44c276.png)
+
+
