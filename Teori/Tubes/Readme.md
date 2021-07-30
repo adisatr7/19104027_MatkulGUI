@@ -5,7 +5,7 @@ Selamat datang di page Github resmi MathQuiz™! Game ini dibuat
 sebagai tugas besar mata kuliah GUI. Adapun orang-orang yang
 terlibat dalam pengembangan game ini adalah:
 ```
-- Muhammad Rifqi Zein     (19104006)
+- Mohammad Rifqi Zein     (19104006)
 - Satria Adi Nugraha      (19104027)
 - Rifqi Alfi Nur Charisma (19104031)
 ```
@@ -45,20 +45,24 @@ saat mengerjakan soal.
 | Title | Description |
 | ----- | ----------- |
 | Use Case Diagram | ![useCaseMathQuiz](https://user-images.githubusercontent.com/58881125/127613895-d7b902e1-f027-4f63-a57a-1b7b0fefb38a.png) |
-| Design Database | (gambar) |
+| Design Database | ![image](https://user-images.githubusercontent.com/34876769/127609877-5e800c2b-f3fb-4d89-9500-bdf863b119c7.png) |
 
 ## Panduan Penggunaan
 - Tools : Pycharm / Vs Code untuk compiler python, xampp untuk database
+- Pastikan XAMPP sudah dinyalakan
 - Buka folder menggunakan text editor python (Vs Code atau Pycharm )
 - (database)
-- Tambahkan akun anda ke dalam database yang disediakan
+- Eksekusi `Create.sql` untuk menambahkan database
+- Tambahkan akun player ke dalam database
 - Jalankan program `main.py`
 
 ![image](https://user-images.githubusercontent.com/58881125/127616250-589b12b7-612f-4aab-ad4f-b2ef796f99be.png)
 
 - Masukkan username dan password yang sudah dibuat
-- (gambar login)
+
+![login](https://user-images.githubusercontent.com/34876769/127620801-7f82473d-3f80-41a1-aa94-63d61313abe5.png)
 - Setelah login, pilih tingkat kesulitan yang diinginkan dan waktu untuk menyelesaikan tiap soal diatur 60 detik. Jika sudah klik start.
+
 ![image](https://user-images.githubusercontent.com/58881125/127616070-58f2a1e7-9d00-4ec9-8e7a-4a78199ee0de.png)
 - Selesaikan soal sesuai waktu yang disediakan
 - Kalian juga bisa menggunakan 3 `Power Ups` yang telah disediakan
