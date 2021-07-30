@@ -1,4 +1,5 @@
 # MathQuiz™
+![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) 
 
 ## Welcome!
 Selamat datang di page Github resmi MathQuiz™! Game ini dibuat
@@ -64,14 +65,14 @@ saat mengerjakan soal.
 
 ![image](https://user-images.githubusercontent.com/58881125/127616070-58f2a1e7-9d00-4ec9-8e7a-4a78199ee0de.png)
 - Selesaikan soal sesuai waktu yang disediakan
-- Kalian juga bisa menggunakan 3 `Power Ups` yang telah disediakan
+- Anda juga bisa menggunakan 3 `Power Ups` yang telah disediakan
 (gambar in game)
 
-> Freeze time : menghentikan waktu selama beberapa detik
+  > Freeze time : menghentikan waktu selama beberapa detik
 
-> Double Point : jika pemain menjawab 1 soal dengan benar, maka poin akan dilipat gandakan
+  > Double Point : jika pemain menjawab 1 soal dengan benar, maka poin akan dilipat gandakan
 
-> Skip : Pemain dapat melanjutkan ke soal berikutnya tanpa kehilangan `life`
+  > Skip : Pemain dapat melanjutkan ke soal berikutnya tanpa kehilangan `life`
 
 - Pada menu profile anda dapat melihat riwayat match yang telah anda selesaikan. Anda juga dapat mengganti avatar dan melihat statistik permainan anda.
 (gambar)
