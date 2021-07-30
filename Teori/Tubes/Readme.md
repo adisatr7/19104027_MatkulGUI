@@ -51,7 +51,6 @@ saat mengerjakan soal.
 - Tools : Pycharm / Vs Code untuk compiler python, xampp untuk database
 - Pastikan XAMPP sudah dinyalakan
 - Buka folder menggunakan text editor python (Vs Code atau Pycharm )
-- (database)
 - Eksekusi `Create.sql` untuk menambahkan database
 - Tambahkan akun player ke dalam database
 - Jalankan program `main.py`
