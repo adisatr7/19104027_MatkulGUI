@@ -65,7 +65,7 @@ saat mengerjakan soal.
 
 ![image](https://user-images.githubusercontent.com/58881125/127616070-58f2a1e7-9d00-4ec9-8e7a-4a78199ee0de.png)
 - Selesaikan soal sesuai waktu yang disediakan
-- Kalian juga bisa menggunakan 3 `Power Ups` yang telah disediakan
+- Anda juga bisa menggunakan 3 `Power Ups` yang telah disediakan
 (gambar in game)
 
 > Freeze time : menghentikan waktu selama beberapa detik
