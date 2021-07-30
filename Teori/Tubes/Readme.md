@@ -52,7 +52,8 @@ saat mengerjakan soal.
 - Tools : Pycharm / Vs Code untuk compiler python, xampp untuk database
 - Pastikan XAMPP sudah dinyalakan
 - Buka folder menggunakan text editor python (Vs Code atau Pycharm )
-- Eksekusi `Create.sql` untuk menambahkan database
+- Buka xampp, pergi ke phpmyadmin dan import database `Create.sql`
+- Import `Create.sql` ke dalam database yang sudah dibuat
 - Tambahkan akun player ke dalam database
 - Jalankan program `main.py`
 
@@ -66,7 +67,7 @@ saat mengerjakan soal.
 ![image](https://user-images.githubusercontent.com/58881125/127616070-58f2a1e7-9d00-4ec9-8e7a-4a78199ee0de.png)
 - Selesaikan soal sesuai waktu yang disediakan
 - Anda juga bisa menggunakan 3 `Power Ups` yang telah disediakan
-(gambar in game)
+![image](https://user-images.githubusercontent.com/58881125/127633172-21c9d73b-16a7-40d8-894c-19452f012452.png)
 
   > Freeze time : menghentikan waktu selama beberapa detik
 
