@@ -521,7 +521,7 @@
              <string/>
             </property>
             <property name="pixmap">
-             <pixmap>assets/avatar1_shop.png</pixmap>
+             <pixmap>../Asset/avatar1_shop.png</pixmap>
             </property>
            </widget>
           </item>
@@ -686,7 +686,7 @@
               <string/>
              </property>
              <property name="pixmap">
-              <pixmap>assets/powerups_shop.png</pixmap>
+              <pixmap>../Asset/powerups_shop.png</pixmap>
              </property>
             </widget>
            </widget>
