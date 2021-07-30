@@ -146,6 +146,7 @@ class LoginWindow:
                     msg.setText("Wrong username and/or password!")
                     msg.setWindowTitle("Login Failed!")
                     msg.exec_()
+                    return
 
     # Register button
     def register(self):
@@ -181,7 +182,7 @@ class LoginWindow:
             cursor = db.cursor()
 
             # Check if username and email is available
-            cursor.execute("SELECT email, username FROM Player")
+            cursor.execute("SELECT email, username FROM Player;")
             result = cursor.fetchall()
 
             for i in range(len(result)):
@@ -201,8 +202,9 @@ class LoginWindow:
                     msg.exec_()
                     return
 
+            # TODO: Query not working!
             # New data insertion
-            cursor.execute(f"INSERT INTO Player (email, username, password) VALUE ({email}, {username}, {password})")
+            cursor.execute(f"INSERT INTO player (email, username, password) VALUE ('{email}', '{username}', '{password}');")
 
             # Empty all fields
             self.register_field_email.setText("")
@@ -212,9 +214,9 @@ class LoginWindow:
 
             # Popup message
             msg = QMessageBox()
-            msg.setIcon(QMessageBox.Critical)
-            msg.setText("Password field and Confirm Password field have different values!")
-            msg.setWindowTitle("New account has been registered!")
+            msg.setIcon(QMessageBox.Information)
+            msg.setText("New account has been registered!")
+            msg.setWindowTitle("Registration successful!")
             msg.exec_()
 
 
