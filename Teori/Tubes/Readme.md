@@ -7,7 +7,7 @@ terlibat dalam pengembangan game ini adalah:
 ```
 - Muhammad Rifqi Zein     (19104006)
 - Satria Adi Nugraha      (19104027)
-- Rifqi Alfi Nur Charisma (191040xx)
+- Rifqi Alfi Nur Charisma (19104031)
 ```
 
 ## What's this all about?
